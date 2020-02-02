@@ -1,5 +1,5 @@
 
-Python program used for web scrapping and data analytics Adjusted to work on Vs code, this program uses numpy,pandas,dataframes,seaborn,matplot.
+Python program used for web scraping and data analytics adjusted to work on Vs code, this program uses numpy,pandas,dataframes,seaborn,matplot.
 
 You will need the jupyter notebook extension to view graphs using seaborn from datanalytics.py
 
